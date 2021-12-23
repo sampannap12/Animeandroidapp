@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Anime</string>
+    <string name="all">TODO</string>
+    <string name="name">Dragon Ball Super</string>
+    <string name="score">7</string>
+    <string name="episode">Episode:</string>
+    <string name="description">Chad Goku</string>
+    <string name="form_title">Anime</string>
+    <string name="name_url">Url image</string>
+    <string name="name_description">Description</string>
+    <string name="name_score">Rating</string>
+    <string name="name_episode">Number of Episode</string>
+    <string name="name_name">Name</string>
+    <string name="title_add">Add</string>
+    <string name="title_edit">Edit</string>
+    <string name="save">Save</string>
+</resources>
